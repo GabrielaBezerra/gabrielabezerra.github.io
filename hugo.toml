@@ -11,6 +11,10 @@ post_limit = 100
 show_more_url = "posts"
 favicon = ""
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [languages]
   [languages.en]
     date_format = "01.02.2006"
