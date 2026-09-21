@@ -1,0 +1,7 @@
+name: "Minimal example"
+language: "en-US"
+navigation:
+    - label: "Home"
+      url: "/"
+    - label: "About"
+      url: "/about/"
