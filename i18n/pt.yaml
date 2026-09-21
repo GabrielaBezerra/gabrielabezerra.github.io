@@ -6,24 +6,30 @@ general:
   
   
 homepage:
-  intro: "Oi pagina em portugues"
-  moreintro: "blablabla"
-  footer: "marroia o fim da pagina com um link [rss](../pl/index.xml)  :-)"
+  intro: "Olá 🖖 Boas-vindas à minha coleção de pensamentos."
+  moreintro: "Aqui você encontrará artigos técnicos e reflexões sobre tecnologia, filosofia, religião e sociedade."
+  footer: "✨ Quer ficar por dentro das novidades? Assine o meu [feed RSS](../en/index.xml)  :-)"
 
 # Category page description
 categories:
+  tecnologia: "Artigos de tutoriais, comentários e mais sobre tecnologia."
+  pensamentos: "Artigos de opinião sobre diversos assuntos. Filosofia, religião, sociedade, etc."
   tech: "Tecnologia"
   thoughts: "Pensamentos"
 
 # RSS feed description
 rss:
   rss_title: "Sharkberry - RSS feed"
-  rss_description: "Conteúdo técnico e pensamentos de alguém preocupado com o impacto da tecnologia na sociedade."
+  rss_description: "Conteúdo técnico e pensamentos de alguém que se preocupa com o impacto da tecnologia na sociedade."
+
+404:
+  title: "404 Não Encontrado"
+  message: "A página que você procura não existe ou foi movida."
 
 # Translation homepage posts list
 allPostsTitle: "Minhas postagens:"
 showMoreAll: "Todas as postagens"
-categoryTitle: "Postagens na categoria: {{ . }}"
+categoryTitle: "✍️ {{ . }}"
 showMoreCategory: "Ler mais dessa categoria"
 showMoreTech: "Ler mais sobre tecnologia"
 showMoreThoughts: "Ler mais pensamentos"

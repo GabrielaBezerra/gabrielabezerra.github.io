@@ -1,6 +1,6 @@
 baseURL = 'https://sharkberry.me/'
 locale = 'en-us'
-title = 'Sharkberry'
+title = '🦈🍓Sharkberry'
 theme = 'somestyleplease'
 
 [params.theme_config]
@@ -17,7 +17,7 @@ favicon = ""
     locale = 'en-US'
     label = 'English'
     direction = 'ltr'
-    title = 'Sharkberry'
+    title = '🦈🍓Sharkberry'
     weight = 1
 
   [languages.pt]
@@ -25,23 +25,43 @@ favicon = ""
     locale = 'pt-BR'
     label = 'Português'
     direction = 'ltr'
-    title = 'Sharkberry'
+    title = '🦈🍓Tubarão-Frutinha'
     weight = 2
+
+[[languages.en.params.navbar_categories]]
+  title = 'tech'
+  url = '/categories/tech/'
+  weight = 2
+
+[[languages.en.params.navbar_categories]]
+  title = 'thoughts'
+  url = '/categories/thoughts/'
+  weight = 3
+
+[[languages.pt.params.navbar_categories]]
+  title = 'tecnologia'
+  url = '/categories/tecnologia/'
+  weight = 2
+
+[[languages.pt.params.navbar_categories]]
+  title = 'pensamentos'
+  url = '/categories/pensamentos/'
+  weight = 3
 
 [languages.en.params.homepage]
   [[languages.en.params.homepage.blocks]]
     enabled = true
     type = "category"
-    category = "technology"
-    limit = 100
-    show_more_key = "showMoreCategory"
+    category = "tech"
+    limit = 5
+    show_more_key = "showMoreTech"
 
   [[languages.en.params.homepage.blocks]]
     enabled = true
     type = "category"
     category = "thoughts"
-    limit = 100
-    show_more_key = "showMoreCategory"
+    limit = 5
+    show_more_key = "showMoreThoughts"
 
 [languages.pt.params.homepage]
   [[languages.pt.params.homepage.blocks]]
@@ -49,11 +69,11 @@ favicon = ""
     type = "category"
     category = "tecnologia"
     limit = 100
-    show_more_key = "showMoreCategory"
+    show_more_key = "showMoreTech"
 
   [[languages.pt.params.homepage.blocks]]
     enabled = true
     type = "category"
     category = "pensamentos"
     limit = 100
-    show_more_key = "showMoreCategory"
+    show_more_key = "showMoreThoughts"
