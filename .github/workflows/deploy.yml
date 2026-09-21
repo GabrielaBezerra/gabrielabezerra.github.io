@@ -10,7 +10,7 @@ jobs:
   deploy-page:
     uses: toucansites/github-workflows/.github/workflows/deploy.yml@main
     with:
-      target: "live"
+      target: "github-pages"
     permissions:
       contents: read
       pages: write

@@ -2,6 +2,6 @@ targets:
     - name: dev 
       default: true
     
-    - name: live
-      output: /tmp/output
-      url: "https://toucansites.github.io/minimal-template-demo/"
+    - name: github-pages
+      output: pages
+      url: "https://sharkberry.me"
