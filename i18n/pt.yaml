@@ -1,0 +1,30 @@
+general:
+  back_home_text: "↩︎ De volta pro início"
+  categories: "categorias:"
+  tags: "tags:"
+  intro: "Intro1."
+  
+  
+homepage:
+  intro: "Oi pagina em portugues"
+  moreintro: "blablabla"
+  footer: "marroia o fim da pagina com um link [rss](../pl/index.xml)  :-)"
+
+# Category page description
+categories:
+  tech: "Tecnologia"
+  thoughts: "Pensamentos"
+
+# RSS feed description
+rss:
+  rss_title: "Sharkberry - RSS feed"
+  rss_description: "Conteúdo técnico e pensamentos de alguém preocupado com o impacto da tecnologia na sociedade."
+
+# Translation homepage posts list
+allPostsTitle: "Minhas postagens:"
+showMoreAll: "Todas as postagens"
+categoryTitle: "Postagens na categoria: {{ . }}"
+showMoreCategory: "Ler mais dessa categoria"
+showMoreTech: "Ler mais sobre tecnologia"
+showMoreThoughts: "Ler mais pensamentos"
+showMoreDefault: "Ler mais dessa categoria"

@@ -1,0 +1,59 @@
+baseURL = 'https://sharkberry.me/'
+locale = 'en-us'
+title = 'Sharkberry'
+theme = 'somestyleplease'
+
+[params.theme_config]
+appearance = "matrix" # auto | light | dark | matrix | bear | together
+categories = true
+tags = true
+post_limit = 100
+show_more_url = "posts"
+favicon = ""
+
+[languages]
+  [languages.en]
+    date_format = "01.02.2006"
+    locale = 'en-US'
+    label = 'English'
+    direction = 'ltr'
+    title = 'Sharkberry'
+    weight = 1
+
+  [languages.pt]
+    date_format = "02.01.2006"
+    locale = 'pt-BR'
+    label = 'Português'
+    direction = 'ltr'
+    title = 'Sharkberry'
+    weight = 2
+
+[languages.en.params.homepage]
+  [[languages.en.params.homepage.blocks]]
+    enabled = true
+    type = "category"
+    category = "technology"
+    limit = 100
+    show_more_key = "showMoreCategory"
+
+  [[languages.en.params.homepage.blocks]]
+    enabled = true
+    type = "category"
+    category = "thoughts"
+    limit = 100
+    show_more_key = "showMoreCategory"
+
+[languages.pt.params.homepage]
+  [[languages.pt.params.homepage.blocks]]
+    enabled = true
+    type = "category"
+    category = "tecnologia"
+    limit = 100
+    show_more_key = "showMoreCategory"
+
+  [[languages.pt.params.homepage.blocks]]
+    enabled = true
+    type = "category"
+    category = "pensamentos"
+    limit = 100
+    show_more_key = "showMoreCategory"

@@ -1,0 +1,30 @@
+general:
+  back_home_text: "↩︎ back to homepage"
+  categories: "categories:"
+  tags: "tags:"
+  intro: "Intro1."
+  
+  
+homepage:
+  intro: "Hello 👋 Welcome to my mind's dump"
+  moreintro: "Here you will find all my thought and concerns mainly about technology, philosophy, religion and society."
+  footer: "Want to stay updated? Subscribe to the [rss feed](../en/index.xml)  :-)"
+
+# Category page description
+categories:
+  tech: "Posts about technology"
+  thoughts: "Here are posts about my opinions and thoughts on various topics"
+
+# RSS feed description
+rss:
+  rss_title: "Sharkberry - RSS feed"
+  rss_description: "My thoughts and concerns about technology, philosophy, religion and society."
+
+# Translation homepage posts list
+allPostsTitle: "Here are all posts:"
+showMoreAll: "See all posts"
+categoryTitle: "{{ . }}"
+showMoreCategory: "Read more from this category"
+showMoreTech: "Read more about technology"
+showMoreThoughts: "Read more thoughts"
+showMoreDefault: "Read more from this category"

@@ -1,0 +1,6 @@
+[submodule "themes/shibui"]
+	path = themes/shibui
+	url = https://github.com/ntk148v/shibui.git
+[submodule "themes/somestyleplease"]
+	path = themes/somestyleplease
+	url = git@github.com:004822/somestyleplease.git
