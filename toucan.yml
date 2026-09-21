@@ -3,5 +3,5 @@ targets:
       default: true
     
     - name: github-pages
-      output: pages
+      output: /tmp/output
       url: "https://sharkberry.me"
