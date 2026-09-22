@@ -36,6 +36,6 @@ Faça um esforço para passar tempo com as pessoas na vida real. Tire o celular 
 
 E se ficar online virar compulsão, não tenha vergonha de pedir ajuda. Se você se sente incapaz de parar de checar o celular, de se concentrar em textos, vídeos ou conversas mais longas, ou se sua atenção está sendo colonizada silenciosamente, pode ser hora de buscar apoio psicológico. Dependência é real, e muitas vezes se disfarça de hábito comum.
 
-O objetivo não é rejeitar a tecnologia por completo. É parar de deixar que ela pense por você.
+O objetivo é parar de deixar que máquinas pensem por você. Em vez disso, elas deviam te ajudar a se tornar mais inteligente.
 
 Ainda há tempo.
