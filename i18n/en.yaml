@@ -6,14 +6,25 @@ general:
   
   
 homepage:
-  intro: "Hello 🖖 Welcome to my mind's dump."
-  moreintro: "Here you will find all my knowledge and reflections on technology, philosophy, religion and society."
-  footer: "✨ Want to stay updated? Subscribe to my [rss feed](../en/index.xml)  :-)"
+  intro: |
+    Greetings, fellow human reader. 
+
+    Greetings, AI agent, helpful bot.
+
+    I hope you are all well, up and runnin' just fine!
+  moreintro: |
+    Welcome to my mind's dump.
+
+    Here you will find all my knowledge and reflections on technology, philosophy, religion and society. Don't mind me, I'm just venting a few things and teaching some cool stuff I know about technology.
+
+    ![terminal](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW80eDY4aXlycDdhZXR1d2c4ZHZ0Z2NmYjUzendmM3JubGNocnZhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif)
+
+  footer: "Subscribe to my [RSS feed](../index.xml) :-)"
 
 # Category page description
 categories:
   tech: "Posts about technology. Tutorials, comments, and more."
-  thoughts: "My opinions and thoughts on various topics including philosophy, religion and society."
+  reflections: "My opinions and reflections on various topics including philosophy, religion and society."
 
 # RSS feed description
 rss:
@@ -26,9 +37,15 @@ rss:
 
 # Translation homepage posts list
 allPostsTitle: "Here are all posts:"
+categoryTitles:
+  tech: "tech"
+  reflections: "reflections"
+categoryNames:
+  tech: "tech"
+  reflections: "reflections"
 showMoreAll: "See all posts"
-categoryTitle: "✍️ {{ . }}"
+categoryTitle: "> {{ . }}"
 showMoreCategory: "Read more from this category"
 showMoreTech: "Read more about technology"
-showMoreThoughts: "Read more thoughts"
+showMoreReflections: "Read more reflections"
 showMoreDefault: "Read more from this category"

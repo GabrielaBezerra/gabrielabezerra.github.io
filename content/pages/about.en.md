@@ -17,8 +17,6 @@ Hoping for a future where technology enables every human to be the best they can
 
 Right now, [the internet is surfing you](../../posts/internet-surf.en.md).  
 
-![internet-surfer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZsbGtuanBjM3V5MjJoZG5sYXI0ZmI5MzJtbG1ycDh1aXZiNW1mZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LGzrggUppEBdm/giphy.gif)
-
 This blog is just a collection of my thoughts. To teach you something and keep me from going insane (what do you think I am, CRAZY?).
 
 ### Contact me

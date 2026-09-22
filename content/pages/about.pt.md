@@ -17,8 +17,6 @@ Tenho a esperança em um futuro onde a tecnologia permite que cada pessoa seja a
 
 Neste momento, [a internet está navegando você](../../posts/internet-surf.pt.md).
 
-![internet-surfer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZsbGtuanBjM3V5MjJoZG5sYXI0ZmI5MzJtbG1ycDh1aXZiNW1mZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LGzrggUppEBdm/giphy.gif)
-
 Esse blog é só uma coleção dos meus pensamentos, pra te ensinar alguma coisa e eu não enlouquecer (o caba vai endoidar é?).
 
 ### Contato

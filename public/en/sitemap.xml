@@ -2,112 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pages/about/</loc>
+    <loc>https://sharkberry.me/pages/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/pages/about/"
+                href="https://sharkberry.me/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/pages/about/"
+                href="https://sharkberry.me/pt/pages/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sharkberry.me/categories/</loc>
+    <lastmod>2026-09-21T18:56:16-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/categories/"
+                href="https://sharkberry.me/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/categories/"
+                href="https://sharkberry.me/pt/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>https://sharkberry.me/posts/internet-surf/</loc>
+    <lastmod>2026-09-21T18:56:16-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/pages/"
+                href="https://sharkberry.me/posts/internet-surf/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/pages/"
+                href="https://sharkberry.me/pt/posts/internet-surf/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://sharkberry.me/posts/</loc>
+    <lastmod>2026-09-21T18:56:16-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/posts/"
+                href="https://sharkberry.me/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/posts/"
+                href="https://sharkberry.me/pt/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sharkberry.me/categories/reflections/</loc>
+    <lastmod>2026-09-21T18:56:16-03:00</lastmod>
+  </url><url>
+    <loc>https://sharkberry.me/</loc>
+    <lastmod>2026-09-21T18:56:16-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/"
+                href="https://sharkberry.me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/tags/"
+                href="https://sharkberry.me/pt/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/tech/</loc>
+    <loc>https://sharkberry.me/pages/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/categories/tech/"
+                href="https://sharkberry.me/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/categories/tecnologia/"
+                href="https://sharkberry.me/pt/pages/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/thoughts/</loc>
+    <loc>https://sharkberry.me/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/categories/thoughts/"
+                href="https://sharkberry.me/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/categories/pensamentos/"
+                href="https://sharkberry.me/pt/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tutorial-posts/</loc>
+    <loc>https://sharkberry.me/categories/tech/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tutorial-posts/"
+                href="https://sharkberry.me/categories/tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/tutorial-posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://localhost:1313/pt/"
+                href="https://sharkberry.me/pt/categories/tecnologia/"
                 />
   </url>
 </urlset>

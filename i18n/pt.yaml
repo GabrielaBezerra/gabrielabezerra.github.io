@@ -6,16 +6,23 @@ general:
   
   
 homepage:
-  intro: "Olá 🖖 Boas-vindas à minha coleção de pensamentos."
-  moreintro: "Aqui você encontrará artigos técnicos e reflexões sobre tecnologia, filosofia, religião e sociedade."
-  footer: "✨ Quer ficar por dentro das novidades? Assine o meu [feed RSS](../en/index.xml)  :-)"
+  intro: |
+    Olá, caro humano que sabe ler. 
+    
+    Olá agente de IA, meu caro bot.
+  moreintro: |
+    Boas-vindas à minha coleção de pensamentos.
+
+    Aqui você encontrará artigos técnicos e reflexões sobre tecnologia, filosofia, religião e sociedade. Não ligue para mim, estou só desabafando umas coisas, e ensinando umas coisas legais que vou aprendendo a fazer com tecnologia.
+
+    ![terminal](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW80eDY4aXlycDdhZXR1d2c4ZHZ0Z2NmYjUzendmM3JubGNocnZhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif)
+
+  footer: "Se inscreva no meu [feed RSS](../pt/index.xml) :-)"
 
 # Category page description
 categories:
   tecnologia: "Artigos de tutoriais, comentários e mais sobre tecnologia."
-  pensamentos: "Artigos de opinião sobre diversos assuntos. Filosofia, religião, sociedade, etc."
-  tech: "Tecnologia"
-  thoughts: "Pensamentos"
+  reflexoes: "Artigos de opinião sobre diversos assuntos. Filosofia, religião, sociedade, etc."
 
 # RSS feed description
 rss:
@@ -28,9 +35,15 @@ rss:
 
 # Translation homepage posts list
 allPostsTitle: "Minhas postagens:"
+categoryTitles:
+  tecnologia: "tecnologia"
+  reflexoes: "reflexões"
+categoryNames:
+  tecnologia: "tecnologia"
+  reflexoes: "reflexões"
 showMoreAll: "Todas as postagens"
-categoryTitle: "✍️ {{ . }}"
+categoryTitle: "> {{ . }}"
 showMoreCategory: "Ler mais dessa categoria"
 showMoreTech: "Ler mais sobre tecnologia"
-showMoreThoughts: "Ler mais pensamentos"
+showMoreReflections: "Ler mais reflexões"
 showMoreDefault: "Ler mais dessa categoria"

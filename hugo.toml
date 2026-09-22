@@ -38,8 +38,8 @@ favicon = ""
   weight = 2
 
 [[languages.en.params.navbar_categories]]
-  title = 'thoughts'
-  url = '/categories/thoughts/'
+  title = 'reflections'
+  url = '/categories/reflections/'
   weight = 3
 
 [[languages.pt.params.navbar_categories]]
@@ -48,8 +48,8 @@ favicon = ""
   weight = 2
 
 [[languages.pt.params.navbar_categories]]
-  title = 'pensamentos'
-  url = '/categories/pensamentos/'
+  title = 'reflexões'
+  url = '/categories/reflexoes/'
   weight = 3
 
 [languages.en.params.homepage]
@@ -63,9 +63,9 @@ favicon = ""
   [[languages.en.params.homepage.blocks]]
     enabled = true
     type = "category"
-    category = "thoughts"
+    category = "reflections"
     limit = 5
-    show_more_key = "showMoreThoughts"
+    show_more_key = "showMoreReflections"
 
 [languages.pt.params.homepage]
   [[languages.pt.params.homepage.blocks]]
@@ -78,6 +78,6 @@ favicon = ""
   [[languages.pt.params.homepage.blocks]]
     enabled = true
     type = "category"
-    category = "pensamentos"
+    category = "reflexoes"
     limit = 100
-    show_more_key = "showMoreThoughts"
+    show_more_key = "showMoreReflections"

@@ -1,7 +1,7 @@
 <rss version="2.0">
     <channel>
         <title>Sharkberry - RSS feed</title>
-        <link>https://sharkberry.me/pt/tags/</link>
+        <link>http://localhost:1313/pt/categories/reflexoes/</link>
         <description>Conteúdo técnico e pensamentos de alguém que se preocupa com o impacto da tecnologia na sociedade.</description>
         <language>pt</language>
         
@@ -9,7 +9,7 @@
         
         <item>
             <title>A internet está surfando você</title>
-            <link>https://sharkberry.me/pt/posts/internet-surf/</link>
+            <link>http://localhost:1313/pt/posts/internet-surf/</link>
             <description>&lt;p&gt;A internet não é um lugar neutro. Ela é uma máquina de atenção.&lt;/p&gt;
 &lt;p&gt;Plataformas modernas, além de coletar dados, constroem modelos comportamentais. Cookies, IDs de dispositivo, identificadores de anúncio, fingerprints de navegador, histórico de busca, padrões de clique, tempo de permanência, movimentos do mouse, profundidade de rolagem, tempo de engajamento e interações sociais são transformados em sinais. Esses sinais são alimentados em sistemas de aprendizado de máquina que estimam não apenas o que gostamos, mas também a que provavelmente vamos reagir, o que desencadeia urgência, o que cria dúvida e o que nos mantém conectados mais tempo.&lt;/p&gt;
 &lt;h2 id=&#34;filter-bubbles&#34;&gt;Filter Bubbles&lt;/h2&gt;
@@ -30,7 +30,7 @@
 &lt;p&gt;Ainda há tempo.&lt;/p&gt;
 </description>
             <pubDate>Mon, 21 Sep 2026 18:56:16 -03</pubDate>
-            <guid>https://sharkberry.me/pt/posts/internet-surf/</guid>
+            <guid>http://localhost:1313/pt/posts/internet-surf/</guid>
         </item>
         
     </channel>
