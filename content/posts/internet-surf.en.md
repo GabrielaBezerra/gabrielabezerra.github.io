@@ -36,6 +36,6 @@ Make an effort to spend time with people in real life. Put the phone away, leave
 
 And if spending time online becomes compulsive, do not be ashamed to ask for help. If you feel unable to stop checking your phone, unable to focus on longer texts, videos, or conversations, or if your attention is being quietly colonized, it may be time to seek psychological support. Dependency is real, and it is often disguised as an ordinary habit.
 
-The goal is not to reject technology entirely. It is to stop letting it think for you.
+The goal is to stop letting machines think for you. They should make you a better thinker instead.
 
 There is still time.
