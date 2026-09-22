@@ -18,16 +18,16 @@ favicon = ""
 [languages]
   [languages.en]
     date_format = "01.02.2006"
-    locale = 'en-US'
-    label = 'English'
+    locale = 'en-us'
+    label = 'en-us'
     direction = 'ltr'
     title = '🦈🍓Sharkberry'
     weight = 1
 
   [languages.pt]
     date_format = "02.01.2006"
-    locale = 'pt-BR'
-    label = 'Português'
+    locale = 'pt-br'
+    label = 'pt-br'
     direction = 'ltr'
     title = '🦈🍓Tubarão-Frutinha'
     weight = 2

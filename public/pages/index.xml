@@ -1,7 +1,7 @@
 <rss version="2.0">
     <channel>
         <title>Sharkberry - RSS feed</title>
-        <link>https://sharkberry.me/pages/</link>
+        <link>http://localhost:1313/pages/</link>
         <description>My thoughts and concerns about technology, philosophy, religion and society.</description>
         <language>en</language>
         
@@ -9,7 +9,7 @@
         
         <item>
             <title>Internet is surfing you</title>
-            <link>https://sharkberry.me/posts/internet-surf/</link>
+            <link>http://localhost:1313/posts/internet-surf/</link>
             <description>&lt;p&gt;The internet is not a neutral place. It is a machine for attention.&lt;/p&gt;
 &lt;p&gt;Modern platforms do more than collect data. They build behavioral models. Cookies, device IDs, ad identifiers, browser fingerprints, search history, click patterns, dwell time, mouse movements, scroll depth, engagement timing, and social interactions are all turned into signals. Those signals are fed into machine learning systems that estimate not only what we like, but also what we are likely to react to, what triggers urgency, what creates doubt, and what keeps us connected for longer.&lt;/p&gt;
 &lt;h2 id=&#34;filter-bubbles&#34;&gt;Filter Bubbles&lt;/h2&gt;
@@ -30,7 +30,7 @@
 &lt;p&gt;There is still time.&lt;/p&gt;
 </description>
             <pubDate>Mon, 21 Sep 2026 18:56:16 -03</pubDate>
-            <guid>https://sharkberry.me/posts/internet-surf/</guid>
+            <guid>http://localhost:1313/posts/internet-surf/</guid>
         </item>
         
     </channel>
