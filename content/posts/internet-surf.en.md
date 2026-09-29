@@ -48,9 +48,9 @@ The first step is to talk about this with the people closest to you. Everyone ne
 
 **The cost of these small pleasures is your mind.**
 
-{{< youtube id="erh2ngRZxs0" subtitle="When we spend hours in social networks" >}}
+{{< youtube id="erh2ngRZxs0" >}}
 
-This video has always been weird and nonsensical. Now it’s just weird and it makes perfect sense. Open the eyes of your friends, coworkers, and family members. Explain it in simple terms. Send this article, if necessary. But talk about this issue.
+This video has always been weird and nonsensical. Now it’s just weird but it makes perfect sense. Open the eyes of your friends, coworkers, and family members. Explain it in simple terms. Send this article, if necessary. But talk about this issue.
 
 ## Harm reduction
 

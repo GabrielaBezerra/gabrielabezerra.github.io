@@ -49,9 +49,9 @@ O primeiro passo é falar sobre isso com as pessoas mais próximas a você. Todo
 
 **O custo desses pequenos prazeres é a sua mente**. 
 
-{{< youtube id="erh2ngRZxs0" subtitle="Quando passamos horas em redes sociais" >}}
+{{< youtube id="erh2ngRZxs0" >}}
 
-Esse vídeo sempre foi esquisito e sem sentido. Agora ele é só esquisito, e faz todo sentido. Abra os olhos dos seus amigos, colegas e familiares. Explique em termos simples. Mande esse artigo, se for preciso. Mas fale sobre essa questão.
+Esse vídeo sempre foi esquisito e sem sentido. Agora ele é só esquisito, mas faz todo sentido. Abra os olhos dos seus amigos, colegas e familiares. Explique em termos simples. Mande esse artigo, se for preciso. Mas fale sobre essa questão.
 
 ## Redução de danos
 
