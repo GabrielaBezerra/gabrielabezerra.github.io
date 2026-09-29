@@ -54,6 +54,8 @@ This video has always been weird and nonsensical. Now it’s just weird but it m
 
 ## Harm reduction
 
+When you are bored, instead of doom scrolling, do something else that is also easy for you to do. Go play some music, read comic books or the book of your choice, crochet something, pray, go play with your dog, do chores, go for a walk, go to the gym. Anything but doom scroll.  
+
 Schedule the moments when you go online. A few deliberate sessions on social media are healthier than a near-constant presence almost all day. Use online time with intention. Read longer texts instead of chasing fragments. Have offline hobbies and activities in your free time. Go back to reading books, fiction or otherwise. Study texts that demand attention. Read slowly. Reflect patiently on an idea before forming an opinion about it. Fight the urge to share online everything you think.
 
 Reduce the amount of surveillance around you. Limit the number of connected devices. Turn off unnecessary tracking in browsers and apps. Use privacy-focused tools when possible. The less data the system can collect, the less precise the profile it builds about you becomes.

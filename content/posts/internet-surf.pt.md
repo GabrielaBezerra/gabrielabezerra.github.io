@@ -55,7 +55,9 @@ Esse vídeo sempre foi esquisito e sem sentido. Agora ele é só esquisito, mas 
 
 ## Redução de danos
 
-Agende os momentos que você fica online. Algumas sessões de rede social deliberadas são mais saudáveis do que uma presença permanente quase o dia todo. Use o tempo online com intenção. Leia textos mais longos em vez de perseguir fragmentos. Tenha hobbies e atividades offline no seu tempo livre. Volte a ler livros, ficção ou não. Estude por textos que exigem atenção. Leia devagar. Reflita com paciência sobre uma ideia antes de emitir uma opinião sobre ela. Lute contra o impulso de compartilhar online tudo que você pensa.
+Quando sentir tédio, em vez de checar notificações e procurar vídeos engraçados em feed sem fim, troque por outras atividades também fáceis para você. Vá ler revistas em quadrinho ou um livro de sua preferência, faça crochet, toque um instrumento musical, reze, brincar com o cachorro, fazer tarefas domésticas, sair para uma caminhada, treinar na academia. Qualquer outra coisa menos usar o celular.
+
+Agende os momentos que você fica online. Algumas sessões de rede social deliberadas são mais saudáveis do que uma presença permanente quase o dia todo. Use o tempo online com intenção. Leia textos mais longos em vez de fragmentos e manchetes. Tenha hobbies e atividades offline no seu tempo livre. Volte a ler livros, ficção ou não. Estude por textos que demandem sua atenção. Leia devagar. Reflita com paciência sobre uma ideia antes de emitir uma opinião sobre ela. Lute contra o impulso de compartilhar online tudo que você pensa.
 
 Reduza a quantidade de vigilância ao seu redor. Limite o número de dispositivos conectados. Desative rastreios desnecessários em navegadores e aplicativos. Use ferramentas focadas em privacidade quando possível. Quanto menos dados o sistema conseguir coletar, menos preciso se torna o perfil que ele constrói sobre você.
 
